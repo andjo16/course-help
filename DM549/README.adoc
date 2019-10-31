@@ -8,3 +8,18 @@ For at opnå kursets formål er det læringsmålet for kurset, at den studerende
  * bevise påstande ved hjælp af forskellige bevismetoder såsom direkte bevis, kontrapositionsbevis, modstridsbevis og induktionsbevis
  * anvende begreber, resultater og teknikker lært i kurset på konkrete problemer, kendte såvel som nye
  * argumentere fyldestgørende for sine løsninger
+
+
+## Indhold
+Kurset indeholder følgende faglige hovedområder:
+
+* Logik
+* Mængder og kardinalitet
+* Funktioner
+* Bevisteknikker: direkte bevis, kontrapositionsbevis, modstridsbevis og induktionsbevis
+* Talteori, herunder delelighed, primtal og kongruenser
+* Anvendelser af talteori såsom kryptering
+* Matricer: addition, multiplikation og transponering
+* Relationer, herunder forskellige repræsentationer af relationer, lukninger, partielle ordninger og ækvivalensrelationer
+* Introduktion til grafer og træer
+* Rækker og følger, herunder konvergens og approksimation af funktioner
